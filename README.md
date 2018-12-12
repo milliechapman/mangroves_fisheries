@@ -1,1 +1,3 @@
 # mangroves_fisheries
+
+Fisheries are increasingly important to global health, economies, and livelihoods (Allison et al. 2009). However, overexploitation and land use change in important fish habitat (e.g. mangroves) threaten fisheries’ continued production at a high level (Valiela et al. 2001). This project  assess the global landings attributed to mangrove associated species and explores correlations between land use change and landings of mangrove associated species by country.  Additionally, this analysis include five country-level case studies, allowing for exploration of trends, correlations, and associated policies that may impact mangrove associated fisheries landings.
