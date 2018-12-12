@@ -1,7 +1,6 @@
 library(plyr)
 library(ggplot2)
 library(reshape)
-
 rm(list = ls())
 global_m<- read.csv("Data/global.csv")
 global_m<-merge(data,global_m, by.x = "Scientific_Name", by.y = "Scientific_Name", all.x = TRUE)
